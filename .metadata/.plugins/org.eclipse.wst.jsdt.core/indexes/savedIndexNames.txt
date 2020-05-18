@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/shiva/workspace/maven/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2018789818.index
+75651867.index
+357053308.index
+2512491774.index
+1431856012.index
+938157434.index
